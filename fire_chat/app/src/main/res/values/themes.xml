@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Fire_chat" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFB347</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Fire_chat" parent="Base.Theme.Fire_chat" />
+</resources>
